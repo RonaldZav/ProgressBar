@@ -1,5 +1,5 @@
 {
-  "name": "simpleprogressbar",
+  "name": "@ronaldzav/progressbar",
   "version": "1.0.0",
   "author": "ronaldzav",
   "main": "src/index.js",
@@ -11,16 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RonaldZav/simpleprogressbar.git#main"
+    "url": "git+https://github.com/RonaldZav/progressbar.git#main"
   },
-  "keywords": [
-    "chatgpt",
-    "ai",
-    "chat"
-  ],
+  "keywords": ["progressbar"],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RonaldZav/simpleprogressbar/issues"
+    "url": "https://github.com/RonaldZav/progressbar/issues"
   },
-  "homepage": "https://github.com/RonaldZav/simpleprogressbar/tree/main#readme"
+  "homepage": "https://github.com/RonaldZav/progressbar/tree/main#readme"
 }
