@@ -1,10 +1,14 @@
 # SimpleProgressBar
 Generate a simple progress bar.
 
-## How To Use
-
+## Install Package
 ```sh
-const ProgressBar = require("simpleprogressbar");
+npm i @ronaldzav/progressbar
+```
+
+## How To Use
+```sh
+const ProgressBar = require("@ronaldzav/progressbar");
 
 const MyProgressBar = new ProgressBar()
   .setIcons("🟩", "🟨")
