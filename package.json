@@ -1,0 +1,26 @@
+{
+  "name": "simpleprogressbar",
+  "version": "1.0.0",
+  "author": "ronaldzav",
+  "main": "src/index.js",
+  "dependencies": {},
+  "description": "Generate a simple progress bar",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonaldZav/simpleprogressbar.git#main"
+  },
+  "keywords": [
+    "chatgpt",
+    "ai",
+    "chat"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonaldZav/simpleprogressbar/issues"
+  },
+  "homepage": "https://github.com/RonaldZav/simpleprogressbar/tree/main#readme"
+}
