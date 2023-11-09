@@ -1,4 +1,4 @@
-# SimpleProgressBar
+# ProgressBar
 Generate a simple progress bar.
 
 ## Install Package
